@@ -13,7 +13,18 @@ export default function Button({ label, theme }) {
                 </Link>
             </View>
         );
-    } else {
+    } else if (theme === "submit") {
+        return (
+            <View style={styles.buttonContainer}>
+                <Link href="index" asChild>
+                    <Pressable style={styles.button}>
+                        <Text style={styles.buttonLabel}>{label}</Text>
+                    </Pressable>
+                </Link>
+            </View>
+        );
+    }
+    else {
         return (
         <View style={styles.buttonContainer}>
             <Pressable onPress={onPress}>
