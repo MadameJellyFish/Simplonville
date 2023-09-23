@@ -19,4 +19,4 @@ d'envoyer une vidéo de 30 secondes max reCAPTCHA Google Bandeau cookie avant ut
 adresses emais selon le sujet d'alerte. 
 Pour la voirie, envoyer à voirie@simplonville.co Pour les animaux, envoyer à animaux@simplonville.co Etc....
 
-exemple de ce que j'attends : https://criquebeuf-seine.fr/alertez-nous/
+Exemple attendue : https://criquebeuf-seine.fr/alertez-nous/
