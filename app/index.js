@@ -1,6 +1,4 @@
-import { useState } from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
-import { Link } from 'expo-router';
 import Button from '../components/Button';
 
 const Logo = require('../assets/images/logo.png');
